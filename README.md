@@ -1,0 +1,1 @@
+# core_tienda_productos
